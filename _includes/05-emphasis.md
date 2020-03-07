@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a **Team Player** with **Empathy** towards people around me :smile: I have some experience in __Cloud__ __Docker__ __DevOps__ techonologies 
